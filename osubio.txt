@@ -1,0 +1,66 @@
+osubio
+
+How I fixed lag i guess. (disclaimer mostly placebo cope.) i am still bad at game.
+
+First find highest priority USB connection on your machine for better response rate.
+I used native windows driver verification through 'run' I launched the utility called "sigverif" and also manually updated drivers in the device manager(random ones were found to be outdated not just audio drivers).
+idk
+
+follow this maybe will work https://answers.microsoft.com/en-us/windows/forum/all/completely-disabling-ms-gs-wavetable-synth/5b2297a5-0904-4340-bdbb-ce528b3068c5
+
+if u use Hard-Drive donno why(I do 🤔) look into this? https://learn.microsoft.com/en-us/previous-versions/troubleshoot/windows-server/turn-disk-write-caching-on-off
+
+disabled in device manager most audio components and computer learned what to adjust also not just osu! runs smooth as butter now also PC in general, BTW this is the best placebo so far
+
+[img]https://raw.githubusercontent.com/notsmth/osu-pitiful/refs/heads/main/New%20Project.png[/img]
+Best placebo solution yet as follows:
+[list=1]
+[*]Before you start make sure your file expolorer shows hidden files and you know whether you changed osu!'s location during installation or go to osu!'s default location(C:\Users\YOURNAME\AppData\Local\osu!) Navigate to: Users, YOURNAME, AppData, Local, osu! where you will find osu!'s location Copy the location Adress for later steps also you can open the games folder inside the game I forgor 😣
+[/list] 
+[list]
+[*]Now Go to Settings(windows) --> Gaming --> on the top right go to Graphics settings --> optimize osu! for high performance. Note: Do it as you'd like it offers High performance for obvious reasons I chose it but, if you can't use high performance on your machine I warned you[/list]
+
+
+[img]https://raw.githubusercontent.com/notsmth/osu-pitiful/refs/heads/main/after/ms-latency-devices.png[/img] 
+
+[img]https://raw.githubusercontent.com/notsmth/osu-pitiful/refs/heads/main/after/ms-latency-devices2.png[/img]
+
+-if the ms variable changes quite rapidly throughout the gameplay at least for me it signals of more respone rather of what I had before which was a non-changing rate of ~0.37ms(take into account no recording software is used so like stuck on ~0.47ms) also I am NOT complaining about the number itself which is low. There are players dealing with 1 ms and above or even 2 ms!
+
+[img]https://raw.githubusercontent.com/notsmth/osu-pitiful/refs/heads/main/after/ms-latency2.png[/img] [img]https://raw.githubusercontent.com/notsmth/osu-pitiful/refs/heads/main/after/ms-latency.png[/img] [img]https://raw.githubusercontent.com/notsmth/osu-pitiful/refs/heads/main/after/ms-latency3.png[/img]
+
+
+*Latency shown should be deducted by around 0.10 ms because I use recording software
+
+*Update - Just see the settings involving 'msconfig' I tried loading it under Normal startup and it seems to improve.
+
+*Update - Nah, By far best placebo is changing sampling rate in an audio player program such as VLC it is a weird feature, but placebo says otherwise - that there may be a change. Hold I am kina slow as it seems osu to have an integrated audio engine under 'Audio compatibility mode' I guess native goes better with this.
+
+*WAIT FINAL IMPROVMENT* - [img]https://raw.githubusercontent.com/notsmth/osu-pitiful/refs/heads/main/whowdbelivethisfrcrop.jpg[/img] who would believe disabling monitor driver would improve of response involving game wow!
+
+Additionally disable more pesky outdated trash -drivers that are uneccessary..
+
+wait maybe system timer is an issue 😵 
+
+11 March I experimented with some system settings and I found going to "About" section in Windows settings
+
+then it leads you to an option called 'Advanced system settings' (Maximize the windows if you can't see..)
+
+go to: Performance --> Advanced and tick the option for Adjust for "best performance of: " background services. lowkey going to test this one so far placebo works. I am going to see the impact on "more demanding" games/tasks because my theory about osu!game is primarily on the level of load the machine gonna take for maintaining overall stability and osu!game is quite light to deal with (modern PC) and how the computer sees this unlike other more intensive games, say, and how modern PC handle them really ..
+
+second theory is that some windows installations suffer more without such optimization therefore leaving the player with unoptimized situation and experience.
+
+Minecraft - I'm having the most chill experience now with it no lag feeling .
+
+with regards to Realtek I open 'Run' Win key + R type services/services.msc and make Realtek, Automatic (Delayed Start). also experimented with other color management my monitor has to offer. https://pcmonitors.info/articles/using-icc-profiles-in-windows/
+
+Also just cleaned my PC believe it or not shocking it runs better (ˉ﹃ˉ)
+
+[list]
+[*]Use my emote Tar at 7TV https://7tv.app/emotes/01JJKHH10H8GXWQAAG06MABR77
+[/list]
+[list]
+[*][/list]
+
+
+[img]https://raw.githubusercontent.com/notsmth/osu-pitiful/refs/heads/main/tar.png[/img]
