@@ -1,0 +1,34 @@
+T_T
+
+
+TSLove by O2i3
+Another
+99.58%76pp
+weighted 44%
+174pp
+
+
+Used 'DDU - Display Driver Uninstaller' W DDU nice program .
+
+ok! Please hear me out, if you ever owned a Logitech peripheral especially a wireless keyboard read this steam article https://steamcommunity.com/app/21090/discussions/0/864951657825089435/ my old keyboard which I never connected really to my new PC (one I'm typing on) despite this it left junk so I just followed and read what they say was disable stuff I did and it seems to help.  After this,
+
+I got this play almost imemdiatly gave me 10 pp after like half to a full year of no gains 
+
+Bullets by konoco x Kobashiri. Sound produced by MIMI
+Extra
+4 minutes ago
+98.95%115pp
+weighted 63%
+183pp
+
+I like this song too!!
+
+[img]https://raw.githubusercontent.com/notsmth/osu-pitiful/refs/heads/main/osubio/osu!_2025.03.31-22.20.mp4.jpg[/img]
+
+another tweak was to remove another random Logitech device from Devices in windows setting and in BIOS I was just switching an option called pciex16 bifurcation from 'Auto' to something else. 
+
+Make sure GameInputSvc is Running
+
+And I update BIOS every like week from now so better system overall
+
+[b]Trying left hand from time to time and rhythm makes more sense[/b] - 1st April 2025 😉 nah fr I really want to start using my left hand .
